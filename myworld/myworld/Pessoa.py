@@ -1,9 +1,10 @@
 
 class Pessoa:
 
-    def __init__(self, nome, idade):
+    def __init__(self, nome, idade, job):
         self.nome = nome
         self.idade = idade
+        self.job = job
 
     def setNome(self, nome):
         self.nome = nome
@@ -16,3 +17,9 @@ class Pessoa:
 
     def getIdade(self):
         return self.idade
+
+    def setJob(self, job):
+        self.job = job
+
+    def getJob(self):
+        return self.job
