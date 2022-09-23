@@ -3,7 +3,10 @@ listas = ['RENATO', 'CREUZA ALVES', 'NATHANZINHO',
           'CAROLINE', 'RUBENS ALVES', 'ABDORAL', 'WADSON', 'VANILSON']
 
 # idades = [10, 20, 30, 40, 50, 60, 70, 80]
+"""
+Os comentários em python
 
+"""
 
 # print(len(lista))
 
