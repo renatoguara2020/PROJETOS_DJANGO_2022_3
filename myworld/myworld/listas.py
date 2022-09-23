@@ -17,5 +17,5 @@ listas = ['RENATO', 'CREUZA ALVES', 'NATHANZINHO',
 # print(lista[0])
 #
 
-for lista in listas:
+for lista in reversed(listas):
     print(lista)
