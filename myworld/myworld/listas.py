@@ -1,6 +1,7 @@
 
-lista = ['RENATO', 'CREUZA ALVES', 'NATHANZINHO',
-         'CAROLINE', 'RUBENS ALVES', 110, 220]
+listas = ['RENATO', 'CREUZA ALVES', 'NATHANZINHO',
+          'CAROLINE', 'RUBENS ALVES', 110, 220, True, False]
+
 
 # print(len(lista))
 
@@ -14,5 +15,7 @@ lista = ['RENATO', 'CREUZA ALVES', 'NATHANZINHO',
 # del lista[0]
 # print(lista[5])
 # print(lista[0])
-lista.remove('NATHANZINHO')
-print(lista)
+#
+
+for lista in listas:
+    print(lista)
