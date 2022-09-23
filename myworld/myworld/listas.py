@@ -5,8 +5,9 @@ listas = ['RENATO', 'CREUZA ALVES', 'NATHANZINHO',
 # idades = [10, 20, 30, 40, 50, 60, 70, 80]
 """
 Os comentários em python
-
+continua aqui
 """
+# aqui também
 
 # print(len(lista))
 
