@@ -2,7 +2,7 @@
 listas = ['RENATO', 'CREUZA ALVES', 'NATHANZINHO',
           'CAROLINE', 'RUBENS ALVES', 'ABDORAL', 'WADSON', 'VANILSON']
 
-idades = [10, 20, 30, 40, 50, 60, 70, 80]
+# idades = [10, 20, 30, 40, 50, 60, 70, 80]
 
 
 # print(len(lista))
@@ -21,7 +21,7 @@ idades = [10, 20, 30, 40, 50, 60, 70, 80]
 
 # listas.sort()
 
-print(listas + idades)
+# print(listas + idades)
 
-# for lista in reversed(listas):
-#     print(lista)
+for lista in reversed(listas):
+    print(lista)
