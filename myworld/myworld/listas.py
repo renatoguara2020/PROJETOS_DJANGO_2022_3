@@ -23,5 +23,14 @@ listas = ['RENATO', 'CREUZA ALVES', 'NATHANZINHO',
 
 # print(listas + idades)
 
-for lista in reversed(listas):
-    print(lista)
+# for lista in reversed(listas):
+#     print(lista)
+
+print(listas[-1])
+print(listas[-2])
+print(listas[-3])
+print(listas[-4])
+print(listas[-5])
+print(listas[-6])
+print(listas[-7])
+print(listas[-8])
